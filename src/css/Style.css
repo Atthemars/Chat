@@ -1,0 +1,46 @@
+
+
+
+#btn1 {
+
+-fx-background-image: url(" ../Img/Btn1.png ");
+      -fx-background-size: 30 30;
+      -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-background-position:center;
+}
+#btn2 {
+-fx-background-image: url(" ../Img/btn.png ");
+      -fx-background-size: 35 35;
+      -fx-background-repeat: no-repeat;
+    -fx-background-color: transparent;
+    -fx-background-position:center;}
+
+#textField {
+    -fx-border-radius: 15;
+    -fx-pref-width: 150;
+    -fx-pref-height: 19px;
+    -fx-padding: 5px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+}
+#
+#textArea {
+    -fx-background-image: url("../img/background.jpg");
+     -fx-background-repeat: no-repeat;
+     -fx-background-size: 100% 100%;
+    -fx-background-color: transparent;
+}
+
+#textArea .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+#textArea .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+#textArea .scroll-pane .content{
+    -fx-background-color: transparent;
+}
